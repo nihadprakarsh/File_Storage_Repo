@@ -1,0 +1,46 @@
+.button-container {
+    margin-top: 20px;
+}
+
+.MuiButton-contained {
+    background-color: #4a90e2;
+    color: #ffffff;
+    border-radius: 8px;
+    padding: 10px 20px;
+    font-size: 16px;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.MuiButton-contained:hover {
+    background-color: #357abd;
+    transform: translateY(-2px);
+}
+
+.MuiButton-outlined {
+    border: 2px solid #4a90e2;
+    color: #4a90e2;
+    border-radius: 8px;
+    padding: 10px 20px;
+    font-size: 16px;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.MuiButton-outlined:hover {
+    background-color: rgba(74, 144, 226, 0.1);
+    transform: translateY(-2px);
+}
+
+
+.MuiButton-outlined:hover {
+    background-color: rgba(74, 144, 226, 0.1);
+    transform: translateY(-2px);
+}
+
+.welcome{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.cloud-storage-description{
+    font-size: 18px;
+}
